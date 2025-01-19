@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-faiss
+faiss-cpu
+streamlit
+fastapi
+pandas
+pydantic
+uvicorn
