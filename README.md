@@ -74,9 +74,9 @@ To run the project in your local environment, follow these steps:
 *Solution:  add limit on the number of returned strings to the server function at the end* 💡
 
   
-
 # Summary
 
+Project completed in 8 hours)
 
 
 # Demo 📸
