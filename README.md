@@ -75,8 +75,14 @@ To run the project in your local environment, follow these steps:
 
   
 # Summary
+The Cocktail Advisor Chat project was developed based on the given requirements and demonstrates my knowledge.
 
-Project completed in 8 hours)
+My first step after receiving the requirements was planning the project structure and selecting the appropriate technologies for development.
+Following the planning phase, the development process adhered to a structured Git workflow, where each feature was implemented in a separate branch, thoroughly tested, and pushed to the repository before creating a pull request for review and integration into the main branch.
+
+The chatbot was initially developed using LangChain, followed by the addition of a Knowledge Base. Subsequently, a FastAPI server and Streamlit UI were integrated. Next, a FAISS store with memory was implemented, and in the final stage, the application was containerized using Docker for simplified deployment and scalability.
+
+*Project completed in 8 hours)*
 
 
 # Demo 📸
